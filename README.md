@@ -1,0 +1,2 @@
+# fundamental
+code fundamental stuff
